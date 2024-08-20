@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabricio Alipazaga</h1>
-<h3 align="center">Soy un apasionado desarrollador full. Tengo experiencia con python y javascript</h3>
+<h3 align="center">Soy un apasionado desarrollador full stack. Tengo experiencia con python y javascript</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
