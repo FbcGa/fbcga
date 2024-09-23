@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p style="text-align: justify;">
+<p align = "justify;">
 Soy un apasionado desarrollador full stack con muchas ganas de aprender. Aunque estoy comenzando mi carrera, ya he adquirido experiencia en React.js, Python y SQLAlchemy, y actualmente estoy aprendiendo TypeScript y Tailwind CSS para seguir ampliando mis conocimientos. Me encanta enfrentar desafíos y resolver problemas en entornos dinámicos. Mi objetivo es contribuir a proyectos significativos mientras sigo desarrollando mis habilidades como desarrollador.
 </p>
 
