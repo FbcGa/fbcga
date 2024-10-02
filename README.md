@@ -1,3 +1,8 @@
+<div id="header" align="center">
+    <h1 align="center"> Hola, Soy FbcGa</h1>
+    <img src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343">
+</div>
+
 # 💫 About Me:
 Soy un apasionado desarrollador full stack con muchas ganas de aprender. Aunque estoy comenzando mi carrera, ya he adquirido experiencia en React.js, Python y SQLAlchemy, y actualmente estoy aprendiendo TypeScript y Tailwind CSS para seguir ampliando mis conocimientos. Me encanta enfrentar desafíos y resolver problemas en entornos dinámicos. Mi objetivo es contribuir a proyectos significativos mientras sigo desarrollando mis habilidades como desarrollador.
 
