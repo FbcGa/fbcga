@@ -1,5 +1,3 @@
-<h1>Hola </h1>
-<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
 # 💫 About Me:
 Soy un apasionado desarrollador full stack con muchas ganas de aprender. Aunque estoy comenzando mi carrera, ya he adquirido experiencia en React.js, Python y SQLAlchemy, y actualmente estoy aprendiendo TypeScript y Tailwind CSS para seguir ampliando mis conocimientos. Me encanta enfrentar desafíos y resolver problemas en entornos dinámicos. Mi objetivo es contribuir a proyectos significativos mientras sigo desarrollando mis habilidades como desarrollador.
 
