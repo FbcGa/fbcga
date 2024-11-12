@@ -4,8 +4,7 @@
 </div>
 
 # 💫 About Me:
-Soy un apasionado desarrollador full stack con muchas ganas de aprender. Aunque estoy comenzando mi carrera, ya he adquirido experiencia en React.js, Python y SQLAlchemy, y actualmente estoy aprendiendo TypeScript y Tailwind CSS para seguir ampliando mis conocimientos. Me encanta enfrentar desafíos y resolver problemas en entornos dinámicos. Mi objetivo es contribuir a proyectos significativos mientras sigo desarrollando mis habilidades como desarrollador.
-
+👋 ¡Hola! Soy un desarrollador full stack entusiasta y comprometido con el aprendizaje continuo. Con experiencia en React.js, Python, y SQLAlchemy, me esfuerzo por crear soluciones sólidas y eficientes para enfrentar desafíos complejos. Actualmente, estoy ampliando mis habilidades con TypeScript y Node.js, con el objetivo de mejorar la calidad y escalabilidad de mis proyectos.
 
 
 
