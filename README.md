@@ -4,7 +4,7 @@
 </div>
 
 # 💫 About Me:
-👋 ¡Hola! Soy un desarrollador full stack entusiasta y comprometido con el aprendizaje continuo. Con experiencia en React.js, Python, y SQLAlchemy, me esfuerzo por crear soluciones sólidas y eficientes para enfrentar desafíos complejos. Actualmente, estoy ampliando mis habilidades con TypeScript y Node.js, con el objetivo de mejorar la calidad y escalabilidad de mis proyectos.
+👋 ¡Hola! Soy un desarrollador Full Stack con más de 2 años de experiencia, entusiasta y comprometido con el aprendizaje continuo. Trabajo con React.js y Python para construir soluciones sólidas y eficientes que resuelvan desafíos complejos. Actualmente estoy ampliando mis habilidades en AWS y Node.js, enfocado en mejorar la calidad, escalabilidad y rendimiento de mis proyectos..
 
 
 
